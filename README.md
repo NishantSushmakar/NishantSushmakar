@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nishantsushmakar@hotmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16TvuQqk68NHNj0hoGe0doUlcH-OEVnZL/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/16TvuQqk68NHNj0hoGe0doUlcH-OEVnZL/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
