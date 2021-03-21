@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Music Generator**
 
-- 🌱 I’m currently learning **Flask, Django and lots of Maths**
+- 🌱 I’m currently learning **Micro Frame Works and lots of Maths**
 
 - 📫 How to reach me **nishantsushmakar@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16TvuQqk68NHNj0hoGe0doUlcH-OEVnZL/view?usp=sharing](https://drive.google.com/file/d/16TvuQqk68NHNj0hoGe0doUlcH-OEVnZL/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16TvuQqk68NHNj0hoGe0doUlcH-OEVnZL/view?usp=sharing](Resume)
 
 
 <h3 align="left">Languages and Tools:</h3>
