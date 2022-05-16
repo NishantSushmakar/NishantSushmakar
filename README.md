@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantsushmakar" alt="nishantsushmakar" /></a> </p>
 
-- 🔭 I’m currently working on **Anomaly Detection**
+- 🔭 I’m currently working on **Kaggle Competition Ai4Code**
 
 - 🌱 I’m currently learning **Micro Frame Works and lots of Maths**
 
