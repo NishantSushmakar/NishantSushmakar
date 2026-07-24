@@ -63,10 +63,3 @@ Coral-bleaching segmentation models compared not just by accuracy but by **energ
 - [How to Make ChatGPT Your Coding Buddy](https://medium.com/@nishantsushmakar/how-to-make-chatgpt-your-coding-buddy-86e26087b1e9)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishantsushmakar&show_icons=true&hide=issues&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantsushmakar&layout=compact&hide_border=true&langs_count=8" height="160"/>
-</p>
-
-<p align="center"><sub>I add "please" to LLM prompts. Just in case.</sub></p>
